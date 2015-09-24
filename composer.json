@@ -2,6 +2,6 @@
 
     "name": "jeroendelau/feathers",
     "extra": {
-		"as-source-path":"starling/src"
+		"as-source-path":"source"
     }
 }
