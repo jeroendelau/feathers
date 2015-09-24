@@ -2,6 +2,15 @@
 
     "name": "jeroendelau/feathers",
     "extra": {
-		"as-source-path":"source"
+		"as-source-path":
+			[
+				"source",
+				"themes/AeonDesktopTheme/source",
+				"themes/MetalWorksDesktopTheme/source",
+				"themes/MetalWorksMobileTheme/source",
+				"themes/MinimalDesktopTheme/source",
+				"themes/MinimalMobileTheme/source",
+				"themes/TopcoatLigthMobileTheme/source"
+			]
     }
 }
