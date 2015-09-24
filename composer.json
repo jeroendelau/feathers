@@ -1,0 +1,7 @@
+{
+
+    "name": "jeroendelau/feathers",
+    "extra": {
+		"as-source-path":"feathers/src"
+    }
+}
