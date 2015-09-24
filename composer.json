@@ -1,0 +1,7 @@
+{
+
+    "name": "BowlerHatLLC/feathers",
+    "extra": {
+		"as-source-path":"starling/src"
+    }
+}
